@@ -1,5 +1,5 @@
 ;---------------------------------------------------------------------------------------
-; TO WRITE 80X86 ALP TO PERFROM STRING OPERATIONS LIKE ACCEPTING A STRING,LENGHT,PALINDROME IN NASM
+; TO WRITE 80X86 ALP TO PERFORM STRING OPERATIONS LIKE ACCEPTING A STRING,LENGHT,PALINDROME IN NASM
 ;---------------------------------------------------------------------------------------
 
 
