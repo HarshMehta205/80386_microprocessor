@@ -71,10 +71,10 @@ err:  rw 1,1,msg1,msglen1
 
 end: rw 60,0,0,0
 
-;mtech@MTECHCSE:~$ nasm -f elf64 cp1.asm
-;mtech@MTECHCSE:~$ ld -o cp1 cp1.o
-;mtech@MTECHCSE:~$ ./cp1 src.txt d.txt
+;btech@BTECHCSE:~$ nasm -f elf64 cp1.asm
+;btech@BTECHCSE:~$ ld -o cp1 cp1.o
+;btech@BTECHCSE:~$ ./cp1 src.txt d.txt
 ;FILE IS COPIED SUCCESSFULLY!!
-;mtech@MTECHCSE:~$
+;btech@BTECHCSE:~$
 
 
